@@ -22,7 +22,28 @@
       "months_to_renew_support": "5",
       "sme_email": "Tina.Eberst@memento.net.au",
       "vendor_phone": "+63 845 279 4808",
-      "investment_number": "297"
+      "investment_number": "297",
+      "integrations": [
+        {
+          "id": "int-039",
+          "name": "INT-039",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Duis mattis egestas metus. Aenean fermentum.",
+          "sourceApplicationId": "content_cloud",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "LEG",
+          "status_color": "#00FF00",
+          "pattern": "Enrichment",
+          "golive_date": "24/3/17",
+          "sme_name": "Lee Brelsford",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "lbrelsfordl@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "22/11/16"
+        }
+      ]
     }
   ]
 }
