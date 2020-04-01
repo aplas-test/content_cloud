@@ -29,7 +29,6 @@
           "name": "INT-039",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Duis mattis egestas metus. Aenean fermentum.",
-          "sourceApplicationId": "content_cloud",
           "targetApplicationId": "hyperlocal",
           "logical_server": "LEG",
           "status_color": "#00FF00",
